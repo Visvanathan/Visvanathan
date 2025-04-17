@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Visvanathan
 
-<!--
-**Visvanathan/Visvanathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Laravel Developer** with 12+ years of PHP experience.  
+Currently focused on full-stack development using:
 
-Here are some ideas to get you started:
+- ⚡ Laravel, Docker, Kubernetes
+- 🎨 Vue.js, React, MongoDB
+- 🔧 GitHub Actions, Jenkins CI/CD
+- 💬 Also familiar with WordPress, Magento (but Laravel is 💖)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Learning & Building
+I'm currently building open-source Laravel packages and modern web apps.  
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/visvanathan-d)
+- [GitHub](https://github.com/Visvanathan)
+
+---
+> Let’s build and learn together. Contributions welcome!
