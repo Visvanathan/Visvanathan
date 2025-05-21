@@ -9,7 +9,19 @@ Currently focused on full-stack development using:
 - 💬 Also familiar with WordPress, Magento (but Laravel is 💖)
 
 ## 🌱 Learning & Building
-I'm currently building open-source Laravel packages and modern web apps.  
+I'm actively building:
+- 🧩 Open-source Laravel packages
+- 🚀 Modern full-stack apps (Laravel API + Vue/React frontend)
+- 🧪 CI/CD pipelines using GitHub Actions & Jenkins
+
+---
+
+## 📰 Subscribe to My Dev Newsletter
+
+**📬 [No-Rush Dev Notes on LinkedIn](https://www.linkedin.com/newsletters/no-rush-dev-notes-7207617985240545280/)**  
+> Bite-sized tips on Laravel, Docker, DevOps, and AI — no fluff, just practical stuff from a hands-on developer.
+
+---
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/visvanathan-d)
