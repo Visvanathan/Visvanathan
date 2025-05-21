@@ -18,7 +18,7 @@ I'm actively building:
 
 ## 📰 Subscribe to My Dev Newsletter
 
-**📬 [No-Rush Dev Notes on LinkedIn](https://www.linkedin.com/newsletters/no-rush-dev-notes-7207617985240545280/)**  
+**📬 [No-Rush Dev Notes on LinkedIn](https://www.linkedin.com/newsletters/no-rush-dev-notes-7330225578857455616/)**  
 > Bite-sized tips on Laravel, Docker, DevOps, and AI — no fluff, just practical stuff from a hands-on developer.
 
 ---
