@@ -5,7 +5,7 @@ Currently focused on full-stack development using:
 
 - ⚡ Laravel, PHP
 - 🎨 Vue.js, React, MongoDB
-- 🔧 Dockerm GitHub Actions, CI/CD
+- 🔧 Docker, GitHub Actions, CI/CD
 - 💬 Also familiar with WordPress, Magento (but Laravel is 💖)
 
 ## 🌱 Learning & Building
