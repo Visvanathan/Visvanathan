@@ -3,9 +3,9 @@
 I'm a passionate **Laravel Developer** with 12+ years of PHP experience.  
 Currently focused on full-stack development using:
 
-- ⚡ Laravel, Docker, Kubernetes
+- ⚡ Laravel, PHP
 - 🎨 Vue.js, React, MongoDB
-- 🔧 GitHub Actions, Jenkins CI/CD
+- 🔧 Dockerm GitHub Actions, CI/CD
 - 💬 Also familiar with WordPress, Magento (but Laravel is 💖)
 
 ## 🌱 Learning & Building
