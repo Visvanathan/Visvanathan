@@ -18,7 +18,7 @@ Visvanathan D
 
 ## What I work with
 
-| | |
+| Area | Tools |
 |---|---|
 | **Backend** | PHP, Laravel, FilamentPHP, Livewire, REST APIs, queues & jobs |
 | **Frontend** | Tailwind CSS, Alpine.js, Blade, React, TypeScript |
